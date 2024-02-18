@@ -1,3 +1,9 @@
+:root{
+    --primary: #D55EFF;
+    --secondary:#F8F8F8;
+    --background-color : #181818;
+}
+
 body{
     background-color: #181818;
     color: #FFFFFF;    
@@ -26,9 +32,25 @@ body{
     /* width: 50%; */
 }
 
+.heroText h4{
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 30px;
+    color: #f2ceff;
+}
+.heroText h1{
+    font-size: 3rem;
+    font-weight: 800;
+}
+.heroText .Practice{
+    color: var(--primary);
+    margin: 10px 0 !important;
+}
+
+
 footer{
     background-color: #181818;
-    color: #FF8233;
+    color: var(--primary);
     padding: 30px 0px;
     margin-top: 100px;
 }
