@@ -12,6 +12,13 @@ body{
     margin-right: 50px !important;
 }
 
+
+.heroBody{
+    padding: 25px;
+}
+.heroText{
+    padding-top: 120px;
+}
 .hero-image{
     padding: 10px;
 }
