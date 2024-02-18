@@ -1,0 +1,31 @@
+body{
+    background-color: #181818;
+    color: #FFFFFF;    
+}
+.navBarSection{
+    background-color: #181818;
+    color: #FFFFFF !important;
+}
+
+
+.navbar-brand img{
+    margin-right: 50px !important;
+}
+
+.hero-image{
+    padding: 10px;
+}
+.hero-image img{
+    /* width: 50%; */
+}
+
+footer{
+    background-color: #181818;
+    color: #FF8233;
+    padding: 30px 0px;
+    margin-top: 100px;
+}
+footer img{
+    width: 25%;
+    margin-top: 0px;
+}
