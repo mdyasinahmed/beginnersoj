@@ -79,3 +79,19 @@ footer img{
 .listBody a{
     text-decoration: none;
 }
+
+.accordion-button{
+    background-color: var(--background-color) !important;
+    color: var(--secondary);
+
+}
+.accordion-button:focus {
+    z-index: 3;
+    border-color: #86b7fe;
+    outline: 0;
+}
+
+.accordion, .accordion-item, .accordion-header{
+    background-color: var(--background-color) !important;
+
+}
