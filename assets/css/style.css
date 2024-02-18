@@ -12,7 +12,9 @@ body{
     background-color: #181818;
     color: #FFFFFF !important;
 }
-
+.navbar-toggler-icon{
+    color: #F8F8F8 !important;
+}
 
 .navbar-brand img{
     margin-right: 50px !important;
@@ -57,4 +59,23 @@ footer{
 footer img{
     width: 25%;
     margin-top: 0px;
+}
+
+
+
+/* Sub Pages Styles */
+.ListHeader{
+    margin-top: 20px;
+}
+.ListHeader h2{
+    font-size: 1.5rem;
+    color: #D55EFF;
+}
+
+.listBody ol li{
+    color: #c6c6c6;
+    line-height: 2rem;
+}
+.listBody a{
+    text-decoration: none;
 }
